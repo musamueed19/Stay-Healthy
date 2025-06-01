@@ -12,7 +12,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Stay Healthy",
+  title: "Stay Healthy - Live Healthy",
   description: `Stay Healthy always says this Quote "Your Life, Your Resposnibilty, Our Guidance"`,
 };
 
